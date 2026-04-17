@@ -1,0 +1,503 @@
+{
+  "version": "1.1.6",
+  "syncMode": "incremental",
+  "generatedAt": "2026-04-17T06:19:46.777Z",
+  "totalCount": 45,
+  "icons": [
+    {
+      "name": "IconCollapse",
+      "originalName": "Collapse",
+      "svgPath": "svg/Collapse.svg",
+      "componentPath": "src/icons/IconCollapse.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T06:19:46.777Z"
+    },
+    {
+      "name": "IconExpand",
+      "originalName": "Expand",
+      "svgPath": "svg/Expand.svg",
+      "componentPath": "src/icons/IconExpand.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T06:19:46.777Z"
+    },
+    {
+      "name": "IconBack",
+      "originalName": "back",
+      "svgPath": "svg/back.svg",
+      "componentPath": "src/icons/IconBack.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T06:19:46.777Z"
+    },
+    {
+      "name": "IconDetails",
+      "originalName": "details",
+      "svgPath": "svg/details.svg",
+      "componentPath": "src/icons/IconDetails.tsx",
+      "size": {
+        "width": 12,
+        "height": 12
+      },
+      "uploadedAt": "2026-04-17T06:19:46.777Z"
+    },
+    {
+      "name": "IconAlert",
+      "originalName": "Alert",
+      "svgPath": "svg/Alert.svg",
+      "componentPath": "src/icons/IconAlert.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconChat",
+      "originalName": "Chat",
+      "svgPath": "svg/Chat.svg",
+      "componentPath": "src/icons/IconChat.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconCollapseBig",
+      "originalName": "Collapse_big",
+      "svgPath": "svg/Collapse_big.svg",
+      "componentPath": "src/icons/IconCollapseBig.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconCollapseMedium",
+      "originalName": "Collapse_medium",
+      "svgPath": "svg/Collapse_medium.svg",
+      "componentPath": "src/icons/IconCollapseMedium.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconCollapseSmall",
+      "originalName": "Collapse_small",
+      "svgPath": "svg/Collapse_small.svg",
+      "componentPath": "src/icons/IconCollapseSmall.tsx",
+      "size": {
+        "width": 12,
+        "height": 12
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconEdit",
+      "originalName": "Edit",
+      "svgPath": "svg/Edit.svg",
+      "componentPath": "src/icons/IconEdit.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconExpandBig",
+      "originalName": "Expand_big",
+      "svgPath": "svg/Expand_big.svg",
+      "componentPath": "src/icons/IconExpandBig.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconExpandMedium",
+      "originalName": "Expand_medium",
+      "svgPath": "svg/Expand_medium.svg",
+      "componentPath": "src/icons/IconExpandMedium.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconExpandSmall",
+      "originalName": "Expand_small",
+      "svgPath": "svg/Expand_small.svg",
+      "componentPath": "src/icons/IconExpandSmall.tsx",
+      "size": {
+        "width": 12,
+        "height": 12
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconFrame21182",
+      "originalName": "Frame 21182",
+      "svgPath": "svg/Frame-21182.svg",
+      "componentPath": "src/icons/IconFrame21182.tsx",
+      "size": {
+        "width": 20,
+        "height": 20
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconProperty1=default",
+      "originalName": "Property 1=Default",
+      "svgPath": "svg/Property-1=Default.svg",
+      "componentPath": "src/icons/IconProperty1=default.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconProperty1=variant2",
+      "originalName": "Property 1=Variant2",
+      "svgPath": "svg/Property-1=Variant2.svg",
+      "componentPath": "src/icons/IconProperty1=variant2.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconProperty1=strong",
+      "originalName": "Property 1=strong",
+      "svgPath": "svg/Property-1=strong.svg",
+      "componentPath": "src/icons/IconProperty1=strong.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconRefresh",
+      "originalName": "Refresh",
+      "svgPath": "svg/Refresh.svg",
+      "componentPath": "src/icons/IconRefresh.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconSearchDefault",
+      "originalName": "Search_default",
+      "svgPath": "svg/Search_default.svg",
+      "componentPath": "src/icons/IconSearchDefault.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconShare",
+      "originalName": "Share",
+      "svgPath": "svg/Share.svg",
+      "componentPath": "src/icons/IconShare.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconToggleSwitchSwitchOff",
+      "originalName": "ToggleSwitch_Switch Off",
+      "svgPath": "svg/ToggleSwitch_Switch-Off.svg",
+      "componentPath": "src/icons/IconToggleSwitchSwitchOff.tsx",
+      "size": {
+        "width": 40,
+        "height": 22
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconToggleSwitchSwitchOn",
+      "originalName": "ToggleSwitch_Switch On",
+      "svgPath": "svg/ToggleSwitch_Switch-On.svg",
+      "componentPath": "src/icons/IconToggleSwitchSwitchOn.tsx",
+      "size": {
+        "width": 40,
+        "height": 22
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconType=bronze",
+      "originalName": "Type=Bronze",
+      "svgPath": "svg/Type=Bronze.svg",
+      "componentPath": "src/icons/IconType=bronze.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconType=default",
+      "originalName": "Type=Default",
+      "svgPath": "svg/Type=Default.svg",
+      "componentPath": "src/icons/IconType=default.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconType=gold",
+      "originalName": "Type=Gold",
+      "svgPath": "svg/Type=Gold.svg",
+      "componentPath": "src/icons/IconType=gold.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconType=silver",
+      "originalName": "Type=Silver",
+      "svgPath": "svg/Type=Silver.svg",
+      "componentPath": "src/icons/IconType=silver.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconVipLogo",
+      "originalName": "VIP logo",
+      "svgPath": "svg/VIP-logo.svg",
+      "componentPath": "src/icons/IconVipLogo.tsx",
+      "size": {
+        "width": 14,
+        "height": 14
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconVipText",
+      "originalName": "VIP text",
+      "svgPath": "svg/VIP-text.svg",
+      "componentPath": "src/icons/IconVipText.tsx",
+      "size": {
+        "width": 37,
+        "height": 20
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconBackBig",
+      "originalName": "back_big",
+      "svgPath": "svg/back_big.svg",
+      "componentPath": "src/icons/IconBackBig.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconBackMedium",
+      "originalName": "back_medium",
+      "svgPath": "svg/back_medium.svg",
+      "componentPath": "src/icons/IconBackMedium.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconBackSmall",
+      "originalName": "back_small",
+      "svgPath": "svg/back_small.svg",
+      "componentPath": "src/icons/IconBackSmall.tsx",
+      "size": {
+        "width": 12,
+        "height": 12
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconCloseBig",
+      "originalName": "close_big",
+      "svgPath": "svg/close_big.svg",
+      "componentPath": "src/icons/IconCloseBig.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconCloseBottomEvent",
+      "originalName": "close_bottom_Event",
+      "svgPath": "svg/close_bottom_Event.svg",
+      "componentPath": "src/icons/IconCloseBottomEvent.tsx",
+      "size": {
+        "width": 32,
+        "height": 32
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconCloseBottomSystem",
+      "originalName": "close_bottom_system",
+      "svgPath": "svg/close_bottom_system.svg",
+      "componentPath": "src/icons/IconCloseBottomSystem.tsx",
+      "size": {
+        "width": 32,
+        "height": 32
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconCloseMediumDefault",
+      "originalName": "close_medium_default",
+      "svgPath": "svg/close_medium_default.svg",
+      "componentPath": "src/icons/IconCloseMediumDefault.tsx",
+      "size": {
+        "width": 20,
+        "height": 20
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconCloseSmall",
+      "originalName": "close_small",
+      "svgPath": "svg/close_small.svg",
+      "componentPath": "src/icons/IconCloseSmall.tsx",
+      "size": {
+        "width": 12,
+        "height": 12
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconDetailsBig",
+      "originalName": "details_big",
+      "svgPath": "svg/details_big.svg",
+      "componentPath": "src/icons/IconDetailsBig.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconDetailsMedium",
+      "originalName": "details_medium",
+      "svgPath": "svg/details_medium.svg",
+      "componentPath": "src/icons/IconDetailsMedium.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconDetailsSmall",
+      "originalName": "details_small",
+      "svgPath": "svg/details_small.svg",
+      "componentPath": "src/icons/IconDetailsSmall.tsx",
+      "size": {
+        "width": 12,
+        "height": 12
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconEnergyIcon24",
+      "originalName": "energy icon 24",
+      "svgPath": "svg/energy-icon-24.svg",
+      "componentPath": "src/icons/IconEnergyIcon24.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconHot",
+      "originalName": "hot",
+      "svgPath": "svg/hot.svg",
+      "componentPath": "src/icons/IconHot.tsx",
+      "size": {
+        "width": 12,
+        "height": 12
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconLike",
+      "originalName": "like",
+      "svgPath": "svg/like.svg",
+      "componentPath": "src/icons/IconLike.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconLock",
+      "originalName": "lock",
+      "svgPath": "svg/lock.svg",
+      "componentPath": "src/icons/IconLock.tsx",
+      "size": {
+        "width": 20,
+        "height": 20
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconThumbsUpDefualt",
+      "originalName": "thumbs up_defualt",
+      "svgPath": "svg/thumbs-up_defualt.svg",
+      "componentPath": "src/icons/IconThumbsUpDefualt.tsx",
+      "size": {
+        "width": 20,
+        "height": 20
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    },
+    {
+      "name": "IconThumbsUpHighlight",
+      "originalName": "thumbs up_highlight",
+      "svgPath": "svg/thumbs-up_highlight.svg",
+      "componentPath": "src/icons/IconThumbsUpHighlight.tsx",
+      "size": {
+        "width": 20,
+        "height": 20
+      },
+      "uploadedAt": "2026-04-17T04:52:28.420Z"
+    }
+  ]
+}
