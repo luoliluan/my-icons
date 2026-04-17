@@ -1,9 +1,53 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "syncMode": "incremental",
-  "generatedAt": "2026-04-17T04:52:28.420Z",
-  "totalCount": 41,
+  "generatedAt": "2026-04-17T06:19:46.777Z",
+  "totalCount": 45,
   "icons": [
+    {
+      "name": "IconCollapse",
+      "originalName": "Collapse",
+      "svgPath": "svg/Collapse.svg",
+      "componentPath": "src/icons/IconCollapse.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T06:19:46.777Z"
+    },
+    {
+      "name": "IconExpand",
+      "originalName": "Expand",
+      "svgPath": "svg/Expand.svg",
+      "componentPath": "src/icons/IconExpand.tsx",
+      "size": {
+        "width": 16,
+        "height": 16
+      },
+      "uploadedAt": "2026-04-17T06:19:46.777Z"
+    },
+    {
+      "name": "IconBack",
+      "originalName": "back",
+      "svgPath": "svg/back.svg",
+      "componentPath": "src/icons/IconBack.tsx",
+      "size": {
+        "width": 24,
+        "height": 24
+      },
+      "uploadedAt": "2026-04-17T06:19:46.777Z"
+    },
+    {
+      "name": "IconDetails",
+      "originalName": "details",
+      "svgPath": "svg/details.svg",
+      "componentPath": "src/icons/IconDetails.tsx",
+      "size": {
+        "width": 12,
+        "height": 12
+      },
+      "uploadedAt": "2026-04-17T06:19:46.777Z"
+    },
     {
       "name": "IconAlert",
       "originalName": "Alert",
